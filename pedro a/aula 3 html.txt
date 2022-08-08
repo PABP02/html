@@ -1,0 +1,7 @@
+<html>
+	<head>
+		<title>Página web</title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<h1>Título do Conteúdo</h1> 

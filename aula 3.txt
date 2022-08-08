@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<title>Página web</title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<h1>Título do Conteúdo</h1> 
+		<h2>Subtítulo</h2>
+
+		<p style="color:red; text-align: center; font-size:32 px">Sociedade Esportiva Palmeiras: A História da Sociedade Esportiva Palmeiras começa no dia 26 de agosto de 1914, quando o clube foi fundado por imigrantes italianos na cidade de São Paulo com o nome de Palestra Italia.[30] A primeira partida da equipe foi disputada em 24 de janeiro de 1915 contra o Savóia, do atual município de Votorantim, à época distrito de Sorocaba, no interior paulista, e contou com a vitória palestrina por 2 a 0, com gols de Bianco e Alegretti.</p>
+		<hr>
+		<p style="color: black; font-size: 32 px">palmeiras campeão da libertadores 2021: Palmeiras supera o Flamengo na prorrogação e é tricampeão da Libertadores
+Deyverson decide a vitória por 2 a 1 no tempo extra, após erro de Andreas Pereira. É o bicampeonato do treinador Abel Ferreira e o terceiro título do clube alviverde, que une 2021 às conquistas de 2020 e 1999 O Palmeiras une a conquista de 2021 às de 2020 e 1999 e se junta a São Paulo, Grêmio e Santos, os times brasileiros que mais venceram a Libertadores. É o bicampeonato seguido do treinador português Abel Ferreira, que chegou há pouco mais de um ano ao Brasil. Ele também se torna o primeiro europeu a realizar tal feito. O esporte é coletivo, mas a vitória não deixa de ter o rosto de Abel —um profissional que, desde a estreia, transformou um elenco robusto num time competitivo e vencedor. Com seguidos títulos estaduais, nacionais e continentais recentemente, o Palmeiras se consolida frente ao seu principal rival nos últimos anos do futebol brasileiro. O maior campeão do país, cuja torcida tem obsessão pela Copa Libertadores, também assume papel de soberano na América do Sul.</p>
+															
+
+	<img src="imagem.jpg"https://imagens.brasil.elpais.com/resizer/D5pXgJRxaRF05Obgi4pxxG0d5qg=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/L4AE3UFWBIGR7TKJPR2NTXCERE.jpg</img>
+
+
+
+	</body>
+</html>
